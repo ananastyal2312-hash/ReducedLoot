@@ -15,7 +15,7 @@
 
 	<PropertyGroup>
 		<!-- This should point to wherever your games primary EXE is -->
-		<TheLongDarkPath>C:\Program Files (x86)\Steam\steamapps\common\TheLongDark</TheLongDarkPath>
+		<TheLongDarkPath>D:\Steam\steamapps\common\TheLongDark</TheLongDarkPath>
 	</PropertyGroup>
 
 	<!-- List of used references -->
