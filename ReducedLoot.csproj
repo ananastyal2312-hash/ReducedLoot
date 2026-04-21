@@ -33,6 +33,15 @@
 		<Reference Include="ModComponent">
 			<HintPath>$(TheLongDarkPath)/Mods/ModComponent.dll</HintPath>
 		</Reference>
+		<Reference Include="LocalizationUtilities">
+	        <HintPath>$(TheLongDarkPath)/Mods/LocalizationUtilities.dll</HintPath>
+	    </Reference>
+	    <Reference Include="CraftingRevisions">
+	        <HintPath>$(TheLongDarkPath)/Mods/CraftingRevisions.dll</HintPath>
+	    </Reference>
+	    <Reference Include="GearSpawner">
+	        <HintPath>$(TheLongDarkPath)/Mods/GearSpawner.dll</HintPath>
+	    </Reference>
 	</ItemGroup>
 	
 	<!-- Most commonly used using's. Add to this so you dont need to define them in the cs files -->
